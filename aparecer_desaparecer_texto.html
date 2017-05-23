@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>What Can JavaScript Do?</h2>
+
+<p id="demo">JavaScript can hide HTML elements.</p>
+
+<br>
+<button type="button" onclick="document.getElementById('demo').style.display='none'">Esconder</button>
+<button type="button" onclick="document.getElementById('demo').style.display='initial'">Aparecer</button>
+
+</body>
+<script type="text/javascript">
+	$(document).click(function(loc){
+		var x = loc.pageX;
+		var y = loc.pageY;
+
+		logClicks(x, y);
+	});
+</script>
+</html>
