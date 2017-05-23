@@ -19,3 +19,6 @@ https://github.com/shama/letswritecode/tree/master/p2p-video-chat-webrtc
 
 Gravar arquivo de vídeo após captura no site
 https://pt.stackoverflow.com/questions/99425/gravar-arquivo-de-v%C3%ADdeo-ap%C3%B3s-captura-no-site
+
+Simulador de carro. What?
+https://www.youtube.com/watch?v=EaY5QiZwSP4
